@@ -1,4 +1,4 @@
-### Titanic_kaggle
+# Titanic_kaggle
 
 Este trabalho busca resolver de maneira superficial o desafio proposto pela plataforma kaggle disponível em (https://www.kaggle.com/competitions/titanic/overview)
 
